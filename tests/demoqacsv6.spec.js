@@ -4,7 +4,7 @@ import { parse } from 'csv-parse/sync';
 import { stringify } from 'csv-stringify/sync';
 
 // 1. Read and parse the CSV file
-const csvData = fs.readFileSync('./data.csv');
+const csvData = fs.readFileSync('./Data.csv');
 const records = parse(csvData, {
   columns: true,
   skip_empty_lines: true

@@ -4,13 +4,13 @@
     <Email>john.doe@example.com</Email>
     <CurrentAddress>123 A Street, Delhi</CurrentAddress>
     <PermanentAddress>456 B Lane, Mumbai</PermanentAddress>
-    <testResult></testResult>
+    <testResult>Pass</testResult>
   </User>
   <User>
     <FullName>Jane Smith</FullName>
     <Email>jane.smith@example.com</Email>
     <CurrentAddress>789 C Road, Pune</CurrentAddress>
     <PermanentAddress>101 D Avenue, Bangalore</PermanentAddress>
-    <testResult></testResult>
+    <testResult>Pass</testResult>
   </User>
 </Users>

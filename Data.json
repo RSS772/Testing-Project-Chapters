@@ -3,5 +3,5 @@
   "Email": "john.doe@example.com",
   "CurrentAddress": "123 A Street, Delhi",
   "PermanentAddress": "456 B Lane, Mumbai",
-  "TestResult": ""
+  "TestResult": "pass"
 }
